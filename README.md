@@ -1,2 +1,2 @@
-# jquery.listify
-Easily convert selects to option lists.
+# jquery.tabify
+Easily add tabs to your page.
